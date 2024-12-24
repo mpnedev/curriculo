@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.container {
+    width: 50%;
+    border: 1px solid #f9f9f9;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    background-color: #f9f9f9;
+}
+
+h1,
+h2,
+p{
+    margin: 15px;
+    margin-left: 50px;
+}
